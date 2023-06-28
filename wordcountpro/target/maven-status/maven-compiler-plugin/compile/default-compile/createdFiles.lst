@@ -1,0 +1,10 @@
+org/example/ClientSocket.class
+org/example/ServerSocket.class
+org/example/WordCountStreaming$1.class
+org/example/mapper/WordCountMap1.class
+org/example/App.class
+org/example/filter/WordCountFilter.class
+org/example/WordCountStream.class
+org/example/mapper/WordCountMap.class
+org/example/WordCountStreaming$Tokenizer.class
+org/example/WordCountStreaming.class
