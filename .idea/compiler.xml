@@ -7,8 +7,22 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="wordcountpro" />
+        <module name="CupProject" />
+        <module name="temp" />
+        <module name="temptesting" />
         <module name="averageprofit" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="temptesting" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="CupProject" options="" />
+      <module name="averageprofit" options="" />
+      <module name="temp" options="" />
+      <module name="wordcountpro" options="" />
+    </option>
   </component>
 </project>

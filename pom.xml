@@ -8,6 +8,8 @@
   <modules>
     <module>WordCountPro</module>
     <module>averageprofit</module>
+    <module>temp</module>
+    <module>CupProject</module>
   </modules>
   <packaging>pom</packaging>
 
@@ -45,6 +47,36 @@
   </dependencies>
   <build>
     <plugins>
+<!--      <plugin>-->
+<!--        <artifactId>maven-compiler-plugin</artifactId>-->
+<!--        <version>${maven-compiler-plugin.version}</version>-->
+<!--        <configuration>-->
+<!--          <compilerArgs>-->
+<!--            &lt;!&ndash; <arg>-verbose</arg> &ndash;&gt;-->
+<!--            <arg>-Xlint:all,-options,-path</arg>-->
+<!--          </compilerArgs>-->
+<!--        </configuration>-->
+<!--      </plugin>-->
+
+<!--      <plugin>-->
+<!--        <groupId>org.apache.maven.plugins</groupId>-->
+<!--        <artifactId>maven-assembly-plugin</artifactId>-->
+<!--        <version>${maven-assembly-plugin.version}</version>-->
+<!--        <configuration>-->
+<!--          <descriptorRefs>-->
+<!--            <descriptorRef>jar-with-dependencies</descriptorRef>-->
+<!--          </descriptorRefs>-->
+<!--        </configuration>-->
+<!--        <executions>-->
+<!--          <execution>-->
+<!--            <id>make-assembly</id>-->
+<!--            <phase>package</phase>-->
+<!--            <goals>-->
+<!--              <goal>single</goal>-->
+<!--            </goals>-->
+<!--          </execution>-->
+<!--        </executions>-->
+<!--      </plugin>-->
       <!-- We use the maven-shade plugin to create a fat jar that contains all necessary dependencies. -->
       <!-- Change the value of <mainClass>...</mainClass> if your program entry point changes. -->
       <plugin>

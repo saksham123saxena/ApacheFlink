@@ -1,8 +1,7 @@
 /Users/sakshamsaxena/Desktop/FlinkTut/ApacheFlink/WordCountPro/src/main/java/org/example/mapper/WordCountMap1.java
 /Users/sakshamsaxena/Desktop/FlinkTut/ApacheFlink/WordCountPro/src/main/java/org/example/mapper/WordCountMap.java
 /Users/sakshamsaxena/Desktop/FlinkTut/ApacheFlink/WordCountPro/src/main/java/org/example/WordCountStream.java
-/Users/sakshamsaxena/Desktop/FlinkTut/ApacheFlink/WordCountPro/src/main/java/org/example/ClientSocket.java
 /Users/sakshamsaxena/Desktop/FlinkTut/ApacheFlink/WordCountPro/src/main/java/org/example/filter/WordCountFilter.java
 /Users/sakshamsaxena/Desktop/FlinkTut/ApacheFlink/WordCountPro/src/main/java/org/example/WordCountStreaming.java
-/Users/sakshamsaxena/Desktop/FlinkTut/ApacheFlink/WordCountPro/src/main/java/org/example/ServerSocket.java
 /Users/sakshamsaxena/Desktop/FlinkTut/ApacheFlink/WordCountPro/src/main/java/org/example/App.java
+/Users/sakshamsaxena/Desktop/FlinkTut/ApacheFlink/WordCountPro/src/main/java/org/example/Config.java
