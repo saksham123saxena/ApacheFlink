@@ -16,7 +16,7 @@ public class WordCountStreaming
 
         // Checking input parameters
         final ParameterTool params = ParameterTool.fromArgs(args);
-
+//        ParameterTool params = loadConfig(env, args);
         // make parameters available in the web interface
         env.getConfig().setGlobalJobParameters(params);
 
@@ -33,7 +33,7 @@ public class WordCountStreaming
                 .keyBy(0).sum(1);            // group by the tuple field "0" and sum up tuple field "1"
 
         counts.print();
-        counts.writeAsText("/Users/sakshamsaxena/Desktop/FlinkTut/OutputFiles/WordCount2.txt");
+        counts.writeAsText("/Users/sakshamsaxena/Desktop/FlinkTut/InputFiles/words.txt");
 
         // execute program
         env.execute("Streaming WordCount");

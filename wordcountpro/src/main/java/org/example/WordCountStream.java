@@ -21,7 +21,7 @@ public class WordCountStream {
                 .map(new WordCountMap())
                 .keyBy(0).sum(1);
           counts.print();
-        counts.writeAsText("/Users/sakshamsaxena/Desktop/FlinkTut/OutputFiles/WordCount3.txt");
+        counts.writeAsText("/Users/sakshamsaxena/Desktop/FlinkTut/OutputFiles/WordCount5.txt");
 
 
         env.execute("Word Count Streaming!!");
