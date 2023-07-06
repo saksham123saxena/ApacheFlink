@@ -10,6 +10,7 @@
     <module>averageprofit</module>
     <module>temp</module>
     <module>CupProject</module>
+    <module>bealdung-flink</module>
   </modules>
   <packaging>pom</packaging>
 
