@@ -1,0 +1,11 @@
+example/join/IdKeySelectorTransactions.class
+example/map/Map.class
+example/FilterAndReduce.class
+example/join/IdKeySelectorAddresses.class
+example/App.class
+org/example/App.class
+example/Sort.class
+example/map/Person.class
+example/wordcount/FlatMapWordCount.class
+example/wordcount/WordCount.class
+example/join/Join.class

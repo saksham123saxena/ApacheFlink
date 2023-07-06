@@ -5,12 +5,20 @@
     <file url="file://$PROJECT_DIR$/CupProject/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/averageprofit/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/averageprofit/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bealdung-flink/batch-stream/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bealdung-flink/batch-stream/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bealdung-flink/real-time-stream/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bealdung-flink/real-time-stream/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bealdung-flink/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bealdung-flink/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/temp/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/temp/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/temptesting/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/temptesting/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/windows/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/windows/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wordcountpro/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wordcountpro/src/main/resources" charset="UTF-8" />
   </component>

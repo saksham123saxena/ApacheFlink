@@ -10,6 +10,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/temptesting/pom.xml" />
+        <option value="$PROJECT_DIR$/windows/pom.xml" />
       </set>
     </option>
   </component>

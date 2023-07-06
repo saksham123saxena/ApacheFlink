@@ -6,15 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="wordcountpro" />
         <module name="CupProject" />
         <module name="temp" />
         <module name="temptesting" />
+        <module name="wordcountpro" />
+        <module name="real-time-stream" />
+        <module name="batch-stream" />
         <module name="averageprofit" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="temptesting" target="11" />
+      <module name="windows" target="11" />
+      <module name="WordCountPro" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
