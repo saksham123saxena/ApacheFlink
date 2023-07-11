@@ -11,6 +11,7 @@
     <module>temp</module>
     <module>CupProject</module>
     <module>bealdung-flink</module>
+    <module>flink-docs</module>
   </modules>
   <packaging>pom</packaging>
 

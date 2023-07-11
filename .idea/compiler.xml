@@ -9,6 +9,7 @@
         <module name="CupProject" />
         <module name="temp" />
         <module name="temptesting" />
+        <module name="data-stream-flink" />
         <module name="wordcountpro" />
         <module name="real-time-stream" />
         <module name="batch-stream" />
