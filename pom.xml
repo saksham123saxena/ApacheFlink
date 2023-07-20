@@ -12,6 +12,7 @@
     <module>CupProject</module>
     <module>bealdung-flink</module>
     <module>flink-docs</module>
+    <module>twitter-analysis</module>
   </modules>
   <packaging>pom</packaging>
 

@@ -10,6 +10,7 @@
         <module name="temp" />
         <module name="temptesting" />
         <module name="data-stream-flink" />
+        <module name="twitter-analysis" />
         <module name="wordcountpro" />
         <module name="real-time-stream" />
         <module name="batch-stream" />
@@ -27,6 +28,7 @@
       <module name="CupProject" options="" />
       <module name="averageprofit" options="" />
       <module name="temp" options="" />
+      <module name="twitter-analysis" options="-Xlint:all,-options,-path" />
       <module name="wordcountpro" options="" />
     </option>
   </component>
