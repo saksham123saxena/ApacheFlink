@@ -1,9 +1,0 @@
-org/example/mapper/AverageProfit2Mapper.class
-org/example/AverageProfit$1.class
-org/example/App.class
-org/example/AverageProfit.class
-org/example/AverageProfit$Splitter.class
-org/example/AverageProfit$Reduce1.class
-org/example/reduce/AverageProfit1Reduce.class
-org/example/AverageProfit1.class
-org/example/mapper/AverageProfit1Mapper.class
